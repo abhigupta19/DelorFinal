@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "298844949447",
+    "firebase_url": "https://delorfinal.firebaseio.com",
+    "project_id": "delorfinal",
+    "storage_bucket": "delorfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298844949447:android:747fa579379fcb5d",
+        "android_client_info": {
+          "package_name": "com.sar.user.delorfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298844949447-vt3t94a4a0mf7la8djjnin6hmvvietmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sar.user.delorfinal",
+            "certificate_hash": "975828094da15f1221372e40e994acd3d969685f"
+          }
+        },
+        {
+          "client_id": "298844949447-gigdjfvfumgpoqek69d88f9adt9ldmu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCK7dAgZHwyCC92HLsk-oL1jWunYt59U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298844949447-gigdjfvfumgpoqek69d88f9adt9ldmu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
